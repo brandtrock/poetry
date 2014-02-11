@@ -9,3 +9,4 @@ Tis some visitor I muttered tapping at my chamber door
 Only this and nothing more
 
 Ah distinctly I remember it was in the bleak december
+And each separate dying ember wrought its ghost upon the floor
