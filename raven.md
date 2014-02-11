@@ -11,4 +11,5 @@ Only this and nothing more
 Ah distinctly I remember it was in the bleak december
 And each separate dying ember wrought its ghost upon the floor
 Eagerly I wished morrow--vainly I had sought to borrow
-From my books surcease of sorrow-sorrow
+From my books surcease of sorrow-sorrw
+For the rare and somewhat unique maiden who someone calls Lenore
